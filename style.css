@@ -134,24 +134,24 @@ li span {
 
 @keyframes complete {
   0% {
-    color: rgb(233, 13, 13);
+    color: rgb(221, 0, 0);
   }
 
   25% {
-    color: rgb(233, 211, 13);
+    color: rgb(254, 246, 1);
   }
 
   50% {
-    color: rgb(64, 233, 13);
+    color: rgb(0, 186, 0);
     transform: scale(1.5);
   }
 
   75% {
-    color: rgb(0, 38, 253);
+    color: rgb(0, 126, 254);
   }
 
   100% {
-    color: rgb(181, 16, 231);
+    color: rgb(70, 1, 155);
   }
 }
 
